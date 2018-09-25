@@ -2,3 +2,4 @@
 #this is a shell script
 #my stupid boss
 create a new branch by master
+merge by no-off
