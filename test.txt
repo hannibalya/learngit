@@ -4,3 +4,4 @@
 create a new branch by master
 merge by no-off
 merge with fast-forward
+test the git stash how to work
