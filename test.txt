@@ -4,3 +4,4 @@
 create a new branch by master
 merge by no-off
 merge with fast-forward
+now i'm ready to fix the bug
